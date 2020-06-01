@@ -1,2 +1,2 @@
 # GeogW12Lab7
-For my class!
+Map of my favorite destinations for my class!
